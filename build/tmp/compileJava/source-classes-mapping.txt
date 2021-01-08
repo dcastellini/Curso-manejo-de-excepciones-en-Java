@@ -1,0 +1,6 @@
+ar/com/exepciones/PlayerNameTooShortException.java
+ ar.com.exepciones.PlayerNameTooShortException
+ar/com/exepciones/RecordsManager.java
+ ar.com.exepciones.RecordsManager
+ar/com/exepciones/ScoreTooLowException.java
+ ar.com.exepciones.ScoreTooLowException
