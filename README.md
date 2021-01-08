@@ -2,7 +2,7 @@
 
 [Link del curso](https://www.udemy.com/course/entendiendo-java-manejo-de-excepciones/)
 
-##Enunciado
+## Enunciado
 
 Se trata de un programa que va a gestionar el tablero de récords de un juego, RecordsManager, lo llamaremos.
 
